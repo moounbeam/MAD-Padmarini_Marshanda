@@ -16,7 +16,6 @@ const App = () =>{
             </Text>
           </View>
         </View>
-  gi
         <View style={styles.container2}>
           <Text style={styles.subTitle}>👤 About Me</Text>
           <Text style={styles.tee2}>
